@@ -15,7 +15,7 @@ font-family: 'KCC Kimhoon';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KCCKimhoon/KCCKimhoon.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KCCKimhoon/KCCKimhoon.css" type="text/css"/>
 ```
 
 &nbsp;
